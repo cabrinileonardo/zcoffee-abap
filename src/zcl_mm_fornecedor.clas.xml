@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_MM_FORNECEDOR</CLSNAME>
+    <LANGU>P</LANGU>
+    <DESCRIPT>Classe de negocios fornecedor</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+    <WITH_UNIT_TESTS>X</WITH_UNIT_TESTS>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CMPNAME>ADD_MSG</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Adicionar menssagem na tabela de retorno</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>CREATE_FORNECEDOR</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Criar Fornecedor</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>DELETE_FORNECEDOR</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Exluir Fornecedor</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>MS_FORNECEDOR</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Estrutura da ZTB_FORNECEDOR</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>MT_MSG</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Tabela de retorno</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>UPDATE_FORNECEDOR</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Alterar Fornecedor</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CMPNAME>VALIDAR_FORNECEDOR</CMPNAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Validar os dados do fornecedor</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>ADD_MSG</CMPNAME>
+     <SCONAME>IV_TYPE</SCONAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Código de um caractere</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>CREATE_FORNECEDOR</CMPNAME>
+     <SCONAME>IS_ENTITY_FORN</SCONAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Estrutura da ZTB_FORNECEDOR</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>DELETE_FORNECEDOR</CMPNAME>
+     <SCONAME>IV_ID_FORN</SCONAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>ID Fornecedor</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>

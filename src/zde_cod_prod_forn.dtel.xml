@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZDE_COD_PROD_FORN</ROLLNAME>
+    <DDLANGUAGE>P</DDLANGUAGE>
+    <DOMNAME>ZDO_COD_PROD_FORN</DOMNAME>
+    <HEADLEN>32</HEADLEN>
+    <SCRLEN1>08</SCRLEN1>
+    <SCRLEN2>17</SCRLEN2>
+    <SCRLEN3>32</SCRLEN3>
+    <DDTEXT>Código do produto no fornecedor</DDTEXT>
+    <REPTEXT>Código do Produto no Fornecedor</REPTEXT>
+    <SCRTEXT_S>Cod.Forn</SCRTEXT_S>
+    <SCRTEXT_M>Cód Prod Fornec.</SCRTEXT_M>
+    <SCRTEXT_L>Código do Produto no Fornecedor</SCRTEXT_L>
+    <DTELMASTER>P</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZDE_PRAZO_DIAS</ROLLNAME>
+    <DDLANGUAGE>P</DDLANGUAGE>
+    <DOMNAME>ZDO_PRAZO_DIAS</DOMNAME>
+    <HEADLEN>24</HEADLEN>
+    <SCRLEN1>08</SCRLEN1>
+    <SCRLEN2>15</SCRLEN2>
+    <SCRLEN3>24</SCRLEN3>
+    <DDTEXT>Prazo de entrega (dias)</DDTEXT>
+    <REPTEXT>Prazo de Entrega (dias)</REPTEXT>
+    <SCRTEXT_S>Prazo(d)</SCRTEXT_S>
+    <SCRTEXT_M>Prazo Entrega</SCRTEXT_M>
+    <SCRTEXT_L>Prazo de Entrega (dias)</SCRTEXT_L>
+    <DTELMASTER>P</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>
